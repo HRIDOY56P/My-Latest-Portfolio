@@ -85,7 +85,7 @@ const Project = () => {
               <span>Flask</span>
             </div>
             <a
-              href="https://github.com/yourusername/clinical-decision-support"
+              href="https://github.com/HRIDOY56P/Predicting-Diseases-and-Guiding-Treatment-from-Clinical-Note-with-NLP"
               className="github-btn"
               target="_blank"
               rel="noopener noreferrer"
