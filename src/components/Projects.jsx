@@ -60,7 +60,7 @@ const Project = () => {
               <span>Flask</span>
             </div>
             <a
-              href="https://github.com/yourusername/asthma-prediction"
+              href="https://github.com/HRIDOY56P/Asthma_disease_prediction"
               className="github-btn"
               target="_blank"
               rel="noopener noreferrer"
@@ -71,7 +71,7 @@ const Project = () => {
 
           {/* Clinical Decision Support */}
           <div className="project-card">
-            <h3>Clinical Decision Support System</h3>
+            <h3>Predicting Disease And Guiding Tratements From Clinical Notes With NLP</h3>
             <p>
               Developed a system that leverages NLP, ML, and LSTM deep learning
               models to analyze clinical notes and assist doctors with disease
@@ -109,7 +109,7 @@ const Project = () => {
               <span>Pandas</span>
             </div>
             <a
-              href="https://github.com/yourusername/career-aspiration"
+              href="https://github.com/HRIDOY56P/Career-Aspiration-Recommendation-System"
               className="github-btn"
               target="_blank"
               rel="noopener noreferrer"
