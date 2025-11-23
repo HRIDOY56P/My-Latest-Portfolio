@@ -104,7 +104,7 @@ const Contact = () => {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  linkedin.com/in/md-rakibul-islam-86b74b2bb
+                  linkedin.com/in/Rakibul
                 </a>
               </div>
             </div>
@@ -117,7 +117,7 @@ const Contact = () => {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  github.com/your-github-username
+                  github.com/HRIDOY
                 </a>
               </div>
             </div>
